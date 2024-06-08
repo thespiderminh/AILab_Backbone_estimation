@@ -1,0 +1,5 @@
+_target_: src.data.lsp_master_datamodule.DataModule
+batch_size: 32
+train_val_test_split: [0.6, 0.2, 0.2]
+num_workers: 2
+pin_memory: False

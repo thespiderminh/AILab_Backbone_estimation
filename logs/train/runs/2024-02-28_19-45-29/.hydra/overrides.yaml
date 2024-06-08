@@ -1,0 +1,2 @@
+- trainer.max_epochs=5
+- logger=csv
